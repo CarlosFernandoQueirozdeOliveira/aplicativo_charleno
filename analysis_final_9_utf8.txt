@@ -1,0 +1,31 @@
+﻿Analyzing trabalho_charchar...                                  
+
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\calendar\presentation\calendar_page.dart:80:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\calendar\presentation\calendar_page.dart:257:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\profile\presentation\profile_page.dart:42:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\profile\presentation\profile_page.dart:58:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\profile\presentation\profile_page.dart:128:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\profile\presentation\profile_page.dart:266:95 - deprecated_member_use
+   info - The import of 'package:flutter_riverpod/flutter_riverpod.dart' is unnecessary because all of the used elements are also provided by the import of 'package:riverpod_annotation/riverpod_annotation.dart' - lib\features\tarefas\data\tarefa_service.dart:2:8 - unnecessary_import
+   info - 'TarefaServiceRef' is deprecated and shouldn't be used. Will be removed in 3.0. Use Ref instead - lib\features\tarefas\data\tarefa_service.dart:12:29 - deprecated_member_use_from_same_package
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\features\tarefas\presentation\tarefa_detalhes_page.dart:56:44 - deprecated_member_use
+
+flutter : 9 issues found. 
+(ran in 3.5s)
+No linha:1 caractere:59
++ ... ing]::UTF8; flutter 
+analyze --no-pub > 
+analysis_final_9.txt 
+2>&1; Get ...
++                 ~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (9  
+   issues found. (ran i   
+ n 3.5s):String) [], R    
+emoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 

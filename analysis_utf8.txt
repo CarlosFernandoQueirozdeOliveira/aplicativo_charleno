@@ -1,0 +1,69 @@
+﻿Analyzing trabalho_charchar...                                  
+
+warning - Unused import: '../../features/auth/data/auth_service.dart' - lib\core\http\api_client.dart:3:8 - unused_import
+   info - The import of 'package:flutter_riverpod/flutter_riverpod.dart' is unnecessary because all of the used elements are also provided by the import of 'package:riverpod_annotation/riverpod_annotation.dart' - lib\features\auth\data\auth_service.dart:2:8 - unnecessary_import
+   info - 'SecureStorageRef' is deprecated and shouldn't be used. Will be removed in 3.0. Use Ref instead - lib\features\auth\data\auth_service.dart:12:29 - deprecated_member_use_from_same_package
+   info - 'ApiClientRef' is deprecated and shouldn't be used. Will be removed in 3.0. Use Ref instead - lib\features\auth\data\auth_service.dart:15:21 - deprecated_member_use_from_same_package
+   info - 'AuthServiceRef' is deprecated and shouldn't be used. Will be removed in 3.0. Use Ref instead - lib\features\auth\data\auth_service.dart:23:25 - deprecated_member_use_from_same_package
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\features\auth\presentation\login_page.dart:55:54 - deprecated_member_use
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\features\auth\presentation\login_page.dart:65:56 - deprecated_member_use
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\features\auth\presentation\login_page.dart:68:82 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\login_page.dart:103:60 - deprecated_member_use
+   info - The private field _selectedDayIndex could be 'final' - lib\features\calendar\presentation\calendar_page.dart:13:7 - prefer_final_fields
+warning - The value of the field '_selectedDayIndex' isn't used - lib\features\calendar\presentation\calendar_page.dart:13:7 - unused_field
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\features\calendar\presentation\calendar_page.dart:55:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\calendar\presentation\calendar_page.dart:81:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\calendar\presentation\calendar_page.dart:258:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\main_screen.dart:38:36 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\main_screen.dart:52:65 - deprecated_member_use
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\features\notices\presentation\notices_page.dart:17:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\notices\presentation\notices_page.dart:19:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\notices\presentation\notices_page.dart:222:34 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\notices\presentation\notices_page.dart:239:62 - deprecated_member_use
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\features\profile\presentation\profile_page.dart:15:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\profile\presentation\profile_page.dart:42:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\profile\presentation\profile_page.dart:58:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\profile\presentation\profile_page.dart:128:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\profile\presentation\profile_page.dart:266:95 - deprecated_member_use
+   info - The import of 'package:flutter_riverpod/flutter_riverpod.dart' is unnecessary because all of the used elements are also provided by the import of 'package:riverpod_annotation/riverpod_annotation.dart' - lib\features\tarefas\data\tarefa_service.dart:2:8 - unnecessary_import
+   info - 'TarefaServiceRef' is deprecated and shouldn't be used. Will be removed in 3.0. Use Ref instead - lib\features\tarefas\data\tarefa_service.dart:12:29 - deprecated_member_use_from_same_package
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\features\tarefas\presentation\tarefa_detalhes_page.dart:54:42 - deprecated_member_use
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\features\tarefas\presentation\tarefa_detalhes_page.dart:56:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tarefas\presentation\tarefa_detalhes_page.dart:56:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tarefas\presentation\tarefa_detalhes_page.dart:65:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tarefas\presentation\tarefa_detalhes_page.dart:92:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tarefas\presentation\tarefa_detalhes_page.dart:155:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tarefas\presentation\tarefa_detalhes_page.dart:287:29 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tarefas\presentation\tarefa_detalhes_page.dart:362:33 - deprecated_member_use
+   info - 'TarefasRef' is deprecated and shouldn't be used. Will be removed in 3.0. Use Ref instead - lib\features\tarefas\presentation\tarefas_page.dart:17:35 - deprecated_member_use_from_same_package
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\features\tarefas\presentation\tarefas_page.dart:35:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tarefas\presentation\tarefas_page.dart:91:37 - deprecated_member_use
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\features\tarefas\presentation\tarefas_page.dart:106:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tarefas\presentation\tarefas_page.dart:223:33 - deprecated_member_use
+warning - Unused import: 'core/config/api_config.dart' - lib\main.dart:5:8 - unused_import
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\main.dart:33:11 - deprecated_member_use
+
+flutter : 42 issues 
+found. (ran in 4.2s)
+No linha:1 
+caractere:59
++ ... ing]::UTF8; 
+flutter analyze 
+--no-pub > analysis_f
+inal_report.txt 2>&1 
+...
++                 ~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (42 issu   
+ es found. (ran i    
+n 4.2s):String)     
+[], RemoteExcept    
+ion
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
